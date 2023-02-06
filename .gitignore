@@ -1,6 +1,9 @@
 .idea
 .idea/*
 TODO
+*test*
+/test*
+/rango/tests_chapter*.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
